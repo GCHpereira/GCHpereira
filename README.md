@@ -1,4 +1,4 @@
-<h2 align="center">1% better than yesterday 💻</h2>
+<h2 align="center">Gabriel Coelho | 1% better than yesterday 💻</h2>
 
 ###
 
