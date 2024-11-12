@@ -1,8 +1,8 @@
-<p align="center">1% better than yesterday</p>
+<h2 align="center">1% better than yesterday 💻</h2>
 
 ###
 
-<p align="left">Techs</p>
+<h2 align="left">Techs</h2>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Status</p>
+<h2 align="left">Status</h2>
 
 ###
 
@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">Redes Sociais</p>
+<h2 align="left">Redes Sociais</h2>
 
 ###
 
